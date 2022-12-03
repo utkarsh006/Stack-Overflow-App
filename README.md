@@ -4,7 +4,8 @@
 - User can optimize the search by appplying filters and could also remove them.
 - Shows the average view count and average answer count in the app.
 - User could also find the results using searchbar.
-- It uses the **caching concept**, i.e. the content remains in the cache and is displayed to the user in the absence of Internet.
+- The project uses **coroutines and livedata** for async tasks.
+- It uses the **caching concept** in RoomDb and Sqlite, i.e. the content remains in the cache and is displayed to the user in the absence of Internet.
 
 <br>
 
