@@ -1,3 +1,13 @@
+## About the Project
+
+- This is a project made for StackOverflow **questions filtering** using Kotlin, MVVM, Retrofit & Recylerview.
+- User can optimize the search by appplying filters and could also remove them.
+- Shows the average view count and average answer count in the app.
+- User could also find the results using searchbar.
+- It uses the **caching concept**, i.e. the content remains in the cache and is displayed to the user in the absence of Internet.
+
+<br>
+
 ## WORKING VIDEO
 
 
